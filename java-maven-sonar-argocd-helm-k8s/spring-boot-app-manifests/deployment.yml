@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: dog-pic
-        image: ajs3ra8/akash-app:html-dog-image.2
+        image: ajs3ra8/akash-app:0.0.5
         ports:
         - containerPort: 80
